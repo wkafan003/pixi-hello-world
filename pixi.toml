@@ -1,0 +1,11 @@
+[project]
+name = "pixi-hello-world"
+version = "0.1.0"
+description = "Add a short description here"
+channels = ["conda-forge"]
+platforms = ["linux-64"]
+
+[tasks]
+
+[dependencies]
+python = "3.12.*"
